@@ -1,4 +1,5 @@
 import 'package:custom_refresh_indicator/custom_refresh_indicator.dart';
+import 'package:custom_refresh_indicator/src/data/data.dart';
 import 'package:flutter/foundation.dart';
 
 /// Describes [IndicatorState] change.
